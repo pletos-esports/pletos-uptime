@@ -4,7 +4,7 @@ repo: pletos-uptime # The name of this repository
 
 sites:
   - name: Pletos API
-    url: https://api.pletos.gg
+    url: https://api.pletos.gg/status
   - name: Pletos Website
     url: https://www.pletos.gg
   - name: Pletos Partners
