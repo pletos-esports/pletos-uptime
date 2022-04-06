@@ -6,7 +6,7 @@ sites:
   - name: Pletos API
     url: https://api.pletos.gg
   - name: Pletos Website
-    url: https://api.pletos.gg
+    url: https://www.pletos.gg
   - name: Pletos Partners
     url: https://partners.pletos.gg
 
