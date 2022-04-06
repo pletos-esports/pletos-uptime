@@ -1,22 +1,22 @@
 [
   {
     "name": "Pletos API",
-    "url": "https://api.pletos.gg",
+    "url": "https://api.pletos.gg/status",
     "icon": "https://favicons.githubusercontent.com/api.pletos.gg",
     "slug": "pletos-api",
-    "status": "down",
-    "uptime": "2.19%",
-    "uptimeDay": "2.19%",
-    "uptimeWeek": "2.19%",
-    "uptimeMonth": "2.19%",
-    "uptimeYear": "2.19%",
-    "time": 393,
-    "timeDay": 393,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "status": "up",
+    "uptime": "1.05%",
+    "uptimeDay": "1.05%",
+    "uptimeWeek": "1.05%",
+    "uptimeMonth": "1.05%",
+    "uptimeYear": "1.05%",
+    "time": 403,
+    "timeDay": 403,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 403,
     "dailyMinutesDown": {
-      "2022-04-06": 2
+      "2022-04-06": 9
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 256,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
+    "time": 372,
+    "timeDay": 372,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 556,
-    "timeDay": 556,
-    "timeWeek": 556,
-    "timeMonth": 556,
-    "timeYear": 556,
+    "time": 568,
+    "timeDay": 568,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   }
 ]
