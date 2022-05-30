@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/api.pletos.gg",
     "slug": "pletos-api",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 560,
-    "timeDay": 714,
-    "timeWeek": 625,
+    "uptimeYear": "99.98%",
+    "time": 561,
+    "timeDay": 594,
+    "timeWeek": 636,
     "timeMonth": 591,
-    "timeYear": 560,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2022-05-04": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 1450,
-    "timeWeek": 976,
-    "timeMonth": 927,
-    "timeYear": 837,
+    "time": 839,
+    "timeDay": 940,
+    "timeWeek": 984,
+    "timeMonth": 920,
+    "timeYear": 839,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 794,
-    "timeWeek": 659,
-    "timeMonth": 582,
-    "timeYear": 580,
+    "time": 583,
+    "timeDay": 723,
+    "timeWeek": 685,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   }
 ]
