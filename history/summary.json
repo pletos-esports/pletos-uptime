@@ -24,19 +24,19 @@
     "url": "https://www.pletos.gg",
     "icon": "https://favicons.githubusercontent.com/www.pletos.gg",
     "slug": "pletos-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 896,
-    "timeWeek": 837,
-    "timeMonth": 929,
-    "timeYear": 837,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 839,
+    "timeDay": 905,
+    "timeWeek": 847,
+    "timeMonth": 928,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2022-06-05": 0
+      "2022-06-05": 19
     }
   },
   {
