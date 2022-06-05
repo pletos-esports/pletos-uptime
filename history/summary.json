@@ -24,9 +24,9 @@
     "url": "https://www.pletos.gg",
     "icon": "https://favicons.githubusercontent.com/www.pletos.gg",
     "slug": "pletos-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 837,
     "timeMonth": 929,
     "timeYear": 837,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-05": 0
+    }
   },
   {
     "name": "Pletos Partners",
