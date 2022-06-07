@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 574,
-    "timeDay": 474,
-    "timeWeek": 666,
-    "timeMonth": 649,
+    "timeDay": 595,
+    "timeWeek": 664,
+    "timeMonth": 647,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2022-05-04": 19
@@ -26,15 +26,15 @@
     "slug": "pletos-website",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.66%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 838,
-    "timeDay": 862,
-    "timeWeek": 831,
-    "timeMonth": 932,
-    "timeYear": 838,
+    "time": 842,
+    "timeDay": 1059,
+    "timeWeek": 875,
+    "timeMonth": 938,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2022-06-05": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 480,
-    "timeWeek": 528,
-    "timeMonth": 597,
-    "timeYear": 576,
+    "time": 578,
+    "timeDay": 656,
+    "timeWeek": 549,
+    "timeMonth": 600,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   }
 ]
