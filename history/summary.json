@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 575,
-    "timeDay": 617,
+    "timeDay": 600,
     "timeWeek": 585,
-    "timeMonth": 633,
+    "timeMonth": 632,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2022-05-04": 19
@@ -24,18 +24,19 @@
     "url": "https://www.pletos.gg",
     "icon": "https://favicons.githubusercontent.com/www.pletos.gg",
     "slug": "pletos-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 896,
-    "timeDay": 929,
-    "timeWeek": 1369,
-    "timeMonth": 1038,
-    "timeYear": 896,
+    "time": 898,
+    "timeDay": 1024,
+    "timeWeek": 1364,
+    "timeMonth": 1037,
+    "timeYear": 898,
     "dailyMinutesDown": {
+      "2022-06-13": 1,
       "2022-06-05": 19
     }
   },
@@ -44,17 +45,19 @@
     "url": "https://partners.pletos.gg",
     "icon": "https://favicons.githubusercontent.com/partners.pletos.gg",
     "slug": "pletos-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 579,
-    "timeDay": 560,
-    "timeWeek": 597,
+    "timeDay": 593,
+    "timeWeek": 588,
     "timeMonth": 597,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   }
 ]
