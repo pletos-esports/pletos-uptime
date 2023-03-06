@@ -1,7 +1,7 @@
 url: https://api.pletos.gg/status
-status: up
-code: 200
-responseTime: 599
-lastUpdated: 2023-03-05T23:14:37.036Z
+status: down
+code: 503
+responseTime: 480
+lastUpdated: 2023-03-06T09:20:29.399Z
 startTime: Wed Apr 06 2022 09:46:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
