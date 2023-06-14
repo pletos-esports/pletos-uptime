@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pletos.gg.ico",
     "slug": "pletos-api",
     "status": "down",
-    "uptime": "77.17%",
+    "uptime": "76.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.94%",
+    "uptimeYear": "72.66%",
     "time": 606,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2023-06-13": 73,
+      "2023-06-14": 71,
+      "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
@@ -132,16 +133,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 951,
-    "timeDay": 982,
-    "timeWeek": 898,
-    "timeMonth": 904,
-    "timeYear": 961,
+    "timeDay": 680,
+    "timeWeek": 865,
+    "timeMonth": 905,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2023-01-25": 45,
-      "2022-06-21": 26,
-      "2022-06-14": 135
+      "2022-06-21": 26
     }
   },
   {
@@ -154,15 +154,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 660,
-    "timeDay": 604,
-    "timeWeek": 645,
-    "timeMonth": 649,
+    "timeDay": 590,
+    "timeWeek": 631,
+    "timeMonth": 648,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2022-06-21": 26,
-      "2022-06-14": 135
+      "2022-06-21": 26
     }
   }
 ]
