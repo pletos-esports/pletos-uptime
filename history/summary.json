@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pletos.gg.ico",
     "slug": "pletos-api",
     "status": "down",
-    "uptime": "69.03%",
+    "uptime": "68.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.98%",
+    "uptimeYear": "58.71%",
     "time": 606,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 607,
+    "timeYear": 608,
     "dailyMinutesDown": {
-      "2023-08-03": 64,
+      "2023-08-04": 67,
+      "2023-08-03": 1440,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
@@ -183,10 +184,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 950,
-    "timeDay": 884,
-    "timeWeek": 967,
-    "timeMonth": 934,
-    "timeYear": 962,
+    "timeDay": 996,
+    "timeWeek": 945,
+    "timeMonth": 933,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2023-01-25": 45
     }
@@ -203,10 +204,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 659,
-    "timeDay": 495,
-    "timeWeek": 623,
-    "timeMonth": 646,
-    "timeYear": 674,
+    "timeDay": 664,
+    "timeWeek": 614,
+    "timeMonth": 641,
+    "timeYear": 675,
     "dailyMinutesDown": {}
   }
 ]
