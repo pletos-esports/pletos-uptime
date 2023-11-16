@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.23%",
+    "uptimeYear": "30.22%",
     "time": 613,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2023-11-16": 59,
+      "2023-11-16": 78,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -280,9 +280,9 @@
     "url": "https://www.pletos.gg",
     "icon": "https://icons.duckduckgo.com/ip3/www.pletos.gg.ico",
     "slug": "pletos-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -292,6 +292,7 @@
     "timeMonth": 871,
     "timeYear": 961,
     "dailyMinutesDown": {
+      "2023-11-16": 0,
       "2023-01-25": 45
     }
   },
@@ -300,9 +301,9 @@
     "url": "https://partners.pletos.gg",
     "icon": "https://icons.duckduckgo.com/ip3/partners.pletos.gg.ico",
     "slug": "pletos-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -311,6 +312,8 @@
     "timeWeek": 611,
     "timeMonth": 611,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   }
 ]
